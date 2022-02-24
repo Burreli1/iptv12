@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="Gjurme Shqiptare TV HD" tvg-name="Gjurme Shqiptqre AL HD" tvg-logo="http://pici.life/rtsh1_2.png" group-title="Albania",Gjurme Shqiptare HD TV
+http://smartestv.vip:2095/ABHVYOP/2387998104/37296?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH 1 HD AL" tvg-logo="http://pici.life/rtsh1_2.png" group-title="Albania",RTSH 1 HD AL
 http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/4849
 #EXTINF:-1 tvg-id="" tvg-name="RTSH 2 HD AL" tvg-logo="http://pici.life/AL/RTSH2%20HD.png" group-title="Albania",RTSH 2 HD AL
@@ -171,6 +173,12 @@ http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/151754
 http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/15174
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport HD AL" tvg-logo="http://pici.life/AL/rtshsport.png" group-title="Albania",RTSH Sport HD AL
 http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/14017
+#EXTINF:-1 tvg-id="BeinSport 1 HD" tvg-name="BeinSport 1 HD" tvg-logo="http://pici.life/AL/rtshsport.png" group-title="Albania",BeinSport1 HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/980?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="BeinSport 2 HD" tvg-name="BeinSport 2 HD" tvg-logo="http://pici.life/AL/rtshsport.png" group-title="Albania",BeinSport2 HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/981?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="BeinSport 3 HD" tvg-name="BeinSport 3 HD" tvg-logo="http://pici.life/AL/rtshsport.png" group-title="Albania",BeinSport3 HD
+http://smartestv.vip:2095/ABHVYOP/2387998104/982?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="------- Movies & Series -------" tvg-logo="" group-title="Albania",------- Movies & Series -------
 http://my34.xyz:8080/3qre0x9fmq/v7o6nskji/684836
 #EXTINF:-1 tvg-id="filmaksion.al" tvg-name="Film Aksion FHD AL" tvg-logo="http://pici.life/filmaksion.png" group-title="Albania",Film Aksion FHD AL
